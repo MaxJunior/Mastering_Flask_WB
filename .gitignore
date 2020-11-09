@@ -10,5 +10,7 @@ secrets.txt
 ./build/*
 .idea/*
 .idea
-env
+proj_env
 venv
+./Chap2/project_env
+./Chap2/__pychache__
